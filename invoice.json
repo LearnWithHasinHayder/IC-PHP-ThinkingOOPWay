@@ -1,0 +1,24 @@
+{
+    "invoiceNumber": "INV-001",
+    "client": "John Doe",
+    "date": "2020-01-01",
+    "dueDate": "2020-01-31",
+    "items": [
+        {
+            "item": "Apple",
+            "quantity": 1,
+            "price": 10
+        },
+        {
+            "item": "Banana",
+            "quantity": 2,
+            "price": 20
+        },
+        {
+            "item": "Cherry",
+            "quantity": 3,
+            "price": 30
+        }
+    ],
+    "discount": 0.1
+}
